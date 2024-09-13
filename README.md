@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/SMTusher007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smtusher007" height="30" width="40" /></a>
+<a href="https://twitter.com/SMTusher007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smtusher_007" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/smtushermustakim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-m-tusher-mustakim-20522718b" height="30" width="40" /></a>
 <a href="https://www.facebook.com/smtusher001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s. m. tusher" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sm.tusher.mustakim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sm.tusher.mustakim" height="30" width="40" /></a>
